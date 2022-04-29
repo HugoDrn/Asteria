@@ -1,0 +1,8 @@
+name: Herasia
+version: '${project.version}'
+main: fr.renardnocturne.herasia.Herasia
+api-version: 1.17
+commands:
+  staff:
+    description: "Ouvre le menu staff."
+    permission: Operators

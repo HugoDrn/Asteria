@@ -1,0 +1,7 @@
+messages:
+  pluginOn: "Herasia plugin just started !"
+  pluginOff: "Herasia plugin down !"
+  playerJoin: "§7[§2+§7] Le joueur {player} nous a rejoint !"
+  playerLeave: "§7[§4-§7] Le joueur {player} nous a quitté !"
+grades:
+  newPlayer: "§7Nouveau"
